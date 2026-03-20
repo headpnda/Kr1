@@ -32,3 +32,6 @@ gcc src/main.c -o program
 
 ## License
 MIT License
+
+## Contact
+[Написать автору](mailto:author@example.com)
