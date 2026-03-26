@@ -1,3 +1,4 @@
+[![Версия](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/headpnda/Kr1)
 # Мой учебный проект
 
 ## Description
