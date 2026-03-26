@@ -7,3 +7,30 @@
 1. Клонируйте репозиторий
 2. Установите компилятор GCC
 3. Перейдите в папку src
+
+## Usage
+Для компиляции и запуска программы выполните:
+
+```bash
+gcc src/main.c -o program
+./program
+
+
+
+
+
+
+
+
+
+
+ git checkout -b feature/usage
+cat >> README.md << 'EOF'
+
+## Использование
+Для компиляции и запуска программы выполните:
+
+\`\`\`bash
+gcc src/main.c -o program
+./program
+\`\`\`
