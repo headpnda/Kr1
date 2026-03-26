@@ -45,3 +45,5 @@ MIT License
 
 ## Контакты
 [Написать автору](mailto:author@example.com)
+
+[Исходный код на GitHub](https://github.com/headpnda/Kr1)
